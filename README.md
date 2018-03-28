@@ -1,6 +1,6 @@
 # US Job Satisfaction Analysis 2011
 
-Use the SOCR 2011 US Job Satisfaction data* to construct an R protocol to examine the job-stress level and hiring-potential using the job description (JD) text.
+Use the SOCR 2011 US Job Satisfaction data** to construct an R protocol to examine the job-stress level and hiring-potential using the job description (JD) text.
 
 Implemtation Steps:
 
@@ -36,5 +36,5 @@ Implemtation Steps:
 
 
 
-** : (http://wiki.socr.umich.edu/index.php/SOCR_Data_2011_US_JobsRanking#2011_Ranking_of_the_200_most_common_Jobs_in_the_US)
+**  (http://wiki.socr.umich.edu/index.php/SOCR_Data_2011_US_JobsRanking#2011_Ranking_of_the_200_most_common_Jobs_in_the_US)
 
